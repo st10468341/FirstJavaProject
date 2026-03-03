@@ -4,17 +4,10 @@
  */
 package campusquickserve_ice;
 
-/**
- *
- * @author kyle9
- */
 public class CampusQuickServe_ICE {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hello World");
     }
     
 }
